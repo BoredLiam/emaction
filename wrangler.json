@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "emaction",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b2f62cf8-e9f4-4398-a294-b5333e5f8e09",
+      "database_name": "emaction"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
